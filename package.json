@@ -1,8 +1,8 @@
 {
   "name": "jungle",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The Jungle project command line tool, for managing jungle projects.",
-  "repository":"git@github.com:Space-Ed/jungle-cli.git",
+  "repository": "git@github.com:Space-Ed/jungle-cli.git",
   "main": "dist/cli.js",
   "scripts": {
     "test": "jasmine"
