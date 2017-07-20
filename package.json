@@ -1,0 +1,24 @@
+{
+  "name": "jungle",
+  "version": "0.0.1",
+  "description": "The Jungle project command line tool, for managing jungle projects.",
+  "main": "dist/cli.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "Jungle",
+    "Organic",
+    "Framework",
+    "Modular",
+    "Routing",
+    "Network",
+    "Cellular",
+    "Biological",
+    "Cell",
+    "Membrane",
+    "Mesh"
+  ],
+  "author": "Space-Ed",
+  "license": "ISC"
+}
