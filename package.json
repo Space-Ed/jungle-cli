@@ -2,6 +2,7 @@
   "name": "jungle",
   "version": "0.0.2",
   "description": "The Jungle project command line tool, for managing jungle projects.",
+  "repository":"git@github.com:Space-Ed/jungle-cli.git",
   "main": "dist/cli.js",
   "scripts": {
     "test": "jasmine"
@@ -20,5 +21,10 @@
     "Mesh"
   ],
   "author": "Space-Ed",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "js-yaml": "^3.9.0",
+    "semver": "^5.3.0"
+  }
 }
