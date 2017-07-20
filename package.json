@@ -1,6 +1,6 @@
 {
   "name": "jungle",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Jungle project command line tool, for managing jungle projects.",
   "main": "dist/cli.js",
   "scripts": {
